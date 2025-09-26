@@ -53,11 +53,16 @@ Entender como o consumo de café varia por **hora do dia**, **dia da semana**, *
 * 🧱 Criação de colunas auxiliares `_year`, `_month`, `_day`.
 * ❄️ **Season (meteorológica)** por meses:
 
-  * Winter: Dez–Fev | Spring: Mar–Mai | Summer: Jun–Ago | Autumn: Set–Nov
+  * Winter: Dez–Fev
+  * Spring: Mar–Mai
+  * Summer: Jun–Ago
+  * Autumn: Set–Nov
 * 🌞 **Season_astro (astronômica, sem fuso)** por datas aproximadas:
 
-  * Winter: [21/12, 20/03) • Spring: [20/03, 21/06) • Summer: [21/06, 22/09) • Autumn: [22/09, 21/12)
-
+  * Winter: [21/12, 20/03)
+  * Spring: [20/03, 21/06)
+  * Summer: [21/06, 22/09)
+  * Autumn: [22/09, 21/12)
 ---
 
 ## 📊 Análises principais
