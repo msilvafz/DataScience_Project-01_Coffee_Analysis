@@ -130,7 +130,7 @@ Entender como o consumo de café varia por **hora do dia**, **dia da semana**, *
 ---
 
 ```
-## 📢 Sobre | About
+## 📢 Sobre
 
 Este é um **projeto acadêmico** da disciplina de **Data Science**.
 
