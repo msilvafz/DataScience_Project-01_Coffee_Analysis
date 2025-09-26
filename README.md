@@ -70,7 +70,10 @@ Entender como o consumo de café varia por **hora do dia**, **dia da semana**, *
 
 ---
 
-## ❓ Hipóteses & perguntas (storytelling)
+## ❓ Perguntas & Hipóteses (storytelling)
+
+* **Pergunta Chave:**
+  👉 *“Como os padrões de consumo de café variam ao longo do dia, da semana e dos meses? Existem horários de pico previsíveis que podem orientar estratégias operacionais?”*
 
 * **H1 — Top 5 por turno**
   👉 *“Entre manhã, tarde e noite, quais são os 5 tipos de café mais vendidos em cada turno e como muda o ranking entre os turnos?”*
