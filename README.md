@@ -85,7 +85,7 @@ Entender como o consumo de café varia por **hora do dia**, **dia da semana**, *
   👉 *“Aplicando cortes ~20/03, ~21/06, ~22/09, ~21/12, o inverno passa a liderar o consumo quando comparado ao outono?”*
 
 * **H4 — Estações por ano (tratando Março duplicado)**
-  👉 *“Separando 2024 e 2025, e definindo inverno como 21/12→20/03, o inverno ainda é a estação de maior consumo em cada ano? Qual o total do inverno por ano e a diferença (registros e %)?”*
+  👉 *“Separando 2024 e 2025, e definindo inverno como 21/12→20/03, o inverno ainda é a estação de maior consumo em cada ano? Qual o total do inverno por ano e a diferença (registros)?”*
 
 ---
 
