@@ -129,7 +129,6 @@ Entender como o consumo de café varia por **hora do dia**, **dia da semana**, *
 
 ---
 
-```
 ## 📢 Sobre
 
 Este é um **projeto acadêmico** da disciplina de **Data Science**.
@@ -138,19 +137,16 @@ Este é um **projeto acadêmico** da disciplina de **Data Science**.
 * **Versão 2:** foco em **análise exploratória**, **visualização**, **storytelling** e **levantamento/validação de hipóteses** (o conteúdo deste repositório).
 
 > 🎓 Objetivo: praticar o ciclo analítico completo — **preparação → exploração → hipótese → visualização → comunicação**.
-```
 
 ---
 
-```
 ## 🎯 Aprendizados
 
 * ✅ Reconhecimento e padronização de **tipos de dados** no Pandas (ex.: `date` → `datetime`, uso de **categóricas ordenadas** para `weekday`, `month_name`, `season`).
 * ✅ Escolha de **visualizações adequadas** ao objetivo (linha vs. barras; **barras agrupadas** para mês×ano; barras simples para hora/dia/estações).
 * ✅ Aplicação de **filtros/segmentações** para clareza: **Top-5 por turno** (filtrar cafés mais consumidos), **separação por ano no gráfico mensal** (tratar março duplicado) e **cortes por data para estações astronômicas** (21/12–20/03; 20/03–21/06; 21/06–22/09; 22/09–21/12).
-* ✅ **Formatação e design** que melhoram leitura (legenda externa, limites de eixo como `ax.set_ylim(0, 580)`, rótulos nos pontos, e **tabelas limpas** com `to_string(name=False, dtype=False)`).
-* ✅ Entendimento do **viés e peculiaridades do dataset** (Março duplicado; ausência de Jan/Fev‑2024) e seu impacto na interpretação.
-```
+* ✅ **Formatação e design** que melhoram leitura (legenda externa, limites de eixo como `ax.set_ylim(0, 580)`, rótulos nos pontos e **tabelas limpas** com `to_string(name=False, dtype=False)`).
+* ✅ Entendimento do **viés e peculiaridades do dataset** (Março duplicado; ausência de Jan/Fev-2024) e seu impacto na interpretação.
 
 ---
 
